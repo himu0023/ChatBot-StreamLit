@@ -22,10 +22,9 @@ A conversational AI chatbot built with Streamlit and machine learning using TF-I
 1. Clone the repository:
 ```bash```
 git clone https://github.com/himu0023/ChatBot-StreamLit.git
-
 cd your-repo-name
 
-3. Install required dependencies:
+2. Install required dependencies:
 
 ```bash```
 pip install -r requirements.txt
